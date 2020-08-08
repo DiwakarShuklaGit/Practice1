@@ -1,0 +1,121 @@
+.main-container
+{
+    background-image: url(Images/background-main.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 3.5% 2%;
+    background-size: cover;
+}
+.logo
+{
+    width: 225px;
+    height: 104px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.navbar1
+{
+    display: inline;
+    padding: 20px;
+}
+.navfonts
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.midbodytext
+{
+padding-top: 70px;
+padding-left: 5px;
+padding-right: 70px;
+text-align: left;  
+}
+
+.midbodytextfont1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.midbodytextfont2
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 1.3em;
+    line-height: 1cm;
+    text-align: left;  
+}
+.try-shift-button
+{
+    padding-right: 0.5em;
+    padding-top: 0.75em;
+    padding-left: 2em;
+    padding-bottom: 0.75em;
+    background-color: blueviolet;
+    border: 1px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    margin-right: 60%;
+    box-shadow: 2px 4px blue;
+    font-weight: bolder;
+    letter-spacing: 0.5px;
+    color: cornsilk;
+    cursor: pointer;
+}
+#shift-head-text
+{
+    font-weight: bolder;
+    letter-spacing: 0.5px;
+    font-size: 1cm;
+}
+#shift-body-text
+{
+    font-size: 0.5cm;
+}
+.curve-sizing
+{
+    width: 100px;
+    box-sizing: border-box;
+    display: block;
+    margin: 2%;
+    margin-left: 45%;
+
+}
+.font-bolder
+{
+    font-weight: bolder;
+    font-size: larger;
+}
+#main-shift-p
+{
+    background-color: darkgray;
+    margin: auto;
+    margin-top: 20em;
+    max-width: 900px;
+    padding: 1em 1em;
+    box-shadow: 4px 8px gray;
+}
+
+.midbody2textfont1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-size: 1.3em;
+    line-height: 1cm;
+    text-align: center;
+    display: block;
+    margin: 5%;
+}
+.featureicon
+{
+    width: 80px;
+}
+.featurebodytext
+{
+    max-width: 60px;
+    text-align: left;
+    border: 1px solid white;
+}
